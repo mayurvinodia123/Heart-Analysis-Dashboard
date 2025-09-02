@@ -1,4 +1,7 @@
 Heart Disease Analysis Dashboard in PowerBI
+Objective: Built an interactive dashboard to analyze heart disease clinical records and identify key health risk factors and survival patterns.
+Data Preparation: Cleaned and transformed raw patient records; created calculated columns and DAX measures for KPIs (survival rate, risk categories, and demographic breakdown).
+Tools & Skills: Power BI, DAX, Data Modeling, Data Visualization, Data Storytelling
 The Purpose of this tutorial is to demonstrate how to create Step by Step Dynamic Heart Disease Analysis Dashboard Using PowerBI.
 📌 KPI’s Overview : Survival Rate, Avg Age of Survival, Total Survival and Total Death Provide a comprehensive overview of patients.
 📌 Survival Count And Average Serum Creatinine by age group Chart : Helps to identify patterns in patient outcomes. Showing how survival rates vary with age & how serum creatinine levels may correlated with those outcomes.
